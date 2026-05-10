@@ -10,10 +10,13 @@ An interactive Power BI dashboard analyzing Swiggy food delivery sales data acro
 
 ---
 
-## 🔗 Live Report
+## 🖥️ How to View This Dashboard
 
-> **Power BI File:** [`dashboard.pbix`](./dashboard.pbix)  
-> Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to explore the full interactive report.
+> 📥 **Download** [`dashboard.pbix`](./dashboard.pbix) from this repo  
+> 🔓 Open it with **[Power BI Desktop](https://powerbi.microsoft.com/desktop/)** ← Free to download  
+> 🎛️ Explore filters, slicers, and all interactive visuals locally
+
+> **Note:** Power BI Service (online publishing) requires a Pro license. Use Power BI Desktop (free) to view this report.
 
 ---
 
