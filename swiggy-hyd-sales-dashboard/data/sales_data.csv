@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Month,Quarter,Day_of_Week,Time_Slot,Restaurant_Name,Cuisine_Type,Restaurant_Area,Delivery_Area,Quantity,Unit_Price_INR,Gross_Amount_INR,Discount_Percent,Discount_Amount_INR,Delivery_Fee_INR,Net_Amount_INR,Payment_Mode,Order_Status,Delivery_Time_Min,Customer_Rating
+SWG10000,2024-11-23,November,Q4,Saturday,Breakfast (7-11am),Shah Ghouse,Biryani,Tolichowki,Madhapur,3,330,990,0,0,0,990,Swiggy Wallet,Delivered,54,4.5
+SWG10001,2024-01-17,January,Q1,Wednesday,Late Night (11pm-2am),Biryani Blues,Biryani,Madhapur,Hitech City,2,318,636,20,127,50,559,Cash on Delivery,Delivered,32,3.1
+SWG10002,2024-08-17,August,Q3,Saturday,Lunch (11am-3pm),Chai Point,Beverages,Kukatpally,Banjara Hills,1,243,243,30,73,40,210,Debit Card,Delivered,29,3.7
+SWG10003,2024-02-17,February,Q1,Saturday,Late Night (11pm-2am),Behrouz Biryani,Biryani,Hitech City,Hitech City,3,432,1296,20,259,30,1067,UPI,Delivered,49,4.6
+SWG10004,2024-02-10,February,Q1,Saturday,Lunch (11am-3pm),The Bowl Company,Healthy,Gachibowli,Banjara Hills,5,450,2250,20,450,0,1800,Debit Card,Delivered,22,4.4
+SWG10005,2024-04-29,April,Q2,Monday,Lunch (11am-3pm),Shah Ghouse,Biryani,Tolichowki,Ameerpet,3,544,1632,30,490,30,1172,Debit Card,Returned,,
+SWG10006,2024-12-15,December,Q4,Sunday,Snacks (3-6pm),Bawarchi,Biryani,RTC X Roads,Tolichowki,2,626,1252,30,376,0,876,Swiggy Wallet,Delivered,44,3.3
+SWG10007,2024-12-16,December,Q4,Monday,Snacks (3-6pm),Burger King,Fast Food,Gachibowli,Dilsukhnagar,1,314,314,50,157,0,157,UPI,Delivered,45,4.6
+SWG10008,2024-10-17,October,Q4,Thursday,Lunch (11am-3pm),Burger King,Fast Food,Gachibowli,Kukatpally,4,485,1940,30,582,40,1398,Swiggy Wallet,Cancelled,,
+SWG10009,2024-05-14,May,Q2,Tuesday,Late Night (11pm-2am),Chai Point,Beverages,Kukatpally,Ameerpet,5,488,2440,0,0,0,2440,Cash on Delivery,Delivered,28,5
+SWG10010,2024-01-25,January,Q1,Thursday,Late Night (11pm-2am),Shah Ghouse,Biryani,Tolichowki,Gachibowli,2,776,1552,10,155,50,1447,Cash on Delivery,Cancelled,,
+SWG10011,2024-05-08,May,Q2,Wednesday,Snacks (3-6pm),The Bowl Company,Healthy,Gachibowli,Dilsukhnagar,1,776,776,30,233,0,543,Debit Card,Delivered,54,4.4
+SWG10012,2024-05-30,May,Q2,Thursday,Late Night (11pm-2am),Fassos,Fast Food,Madhapur,Gachibowli,4,83,332,30,100,30,262,UPI,Returned,,
+SWG10013,2024-06-01,June,Q2,Saturday,Breakfast (7-11am),Chili's,Continental,Jubilee Hills,Tolichowki,2,236,472,0,0,0,472,Swiggy Wallet,Delivered,53,4.1
+SWG10014,2024-09-07,September,Q3,Saturday,Breakfast (7-11am),Biryani Blues,Biryani,Madhapur,Hitech City,3,394,1182,0,0,0,1182,UPI,Returned,,
+SWG10015,2024-09-05,September,Q3,Thursday,Snacks (3-6pm),Bawarchi,Biryani,RTC X Roads,LB Nagar,5,208,1040,0,0,40,1080,Swiggy Wallet,Cancelled,,
+SWG10016,2024-08-04,August,Q3,Sunday,Dinner (6-11pm),Pizza Hut,Pizza,Jubilee Hills,Begumpet,5,786,3930,0,0,30,3960,Swiggy Wallet,Delivered,43,3.8
+SWG10017,2024-03-02,March,Q1,Saturday,Lunch (11am-3pm),La Pino'z,Pizza,Kukatpally,Kukatpally,1,426,426,0,0,50,476,UPI,Delivered,57,4.1
+SWG10018,2024-12-28,December,Q4,Saturday,Snacks (3-6pm),Paradise Biryani,Biryani,Secunderabad,Kukatpally,1,112,112,50,56,30,86,Cash on Delivery,Delivered,35,3.1
+SWG10019,2024-10-03,October,Q4,Thursday,Lunch (11am-3pm),Pista House,Biryani,Charminar,KPHB,5,670,3350,10,335,0,3015,UPI,Delivered,46,4.6
+SWG10020,2024-12-03,December,Q4,Tuesday,Breakfast (7-11am),Fassos,Fast Food,Madhapur,Jubilee Hills,4,500,2000,10,200,0,1800,Cash on Delivery,Returned,,
+SWG10021,2024-06-22,June,Q2,Saturday,Snacks (3-6pm),Shah Ghouse,Biryani,Tolichowki,Kukatpally,2,274,548,20,110,40,478,Cash on Delivery,Delivered,31,3.3
+SWG10022,2024-02-08,February,Q1,Thursday,Lunch (11am-3pm),Box8,North Indian,Banjara Hills,LB Nagar,5,180,900,0,0,50,950,Credit Card,Delivered,25,4.7
+SWG10023,2024-09-05,September,Q3,Thursday,Snacks (3-6pm),Wow Momo,Chinese,Ameerpet,Kukatpally,4,140,560,0,0,40,600,Cash on Delivery,Delivered,44,3
+SWG10024,2024-08-04,August,Q3,Sunday,Late Night (11pm-2am),The Bowl Company,Healthy,Gachibowli,Charminar,4,238,952,0,0,30,982,Swiggy Wallet,Delivered,23,3.4
+SWG10025,2024-06-09,June,Q2,Sunday,Breakfast (7-11am),Paradise Biryani,Biryani,Secunderabad,Madhapur,5,568,2840,20,568,50,2322,Credit Card,Delivered,52,3.3
+SWG10026,2024-10-31,October,Q4,Thursday,Breakfast (7-11am),Bawarchi,Biryani,RTC X Roads,Charminar,2,493,986,0,0,50,1036,Swiggy Wallet,Delivered,58,3.5
+SWG10027,2024-08-02,August,Q3,Friday,Lunch (11am-3pm),Chai Point,Beverages,Kukatpally,Tolichowki,5,403,2015,0,0,0,2015,Debit Card,Delivered,40,4.3
+SWG10028,2024-03-08,March,Q1,Friday,Breakfast (7-11am),KFC,Fast Food,Hitech City,Secunderabad,3,154,462,0,0,40,502,UPI,Cancelled,,
+SWG10029,2024-04-19,April,Q2,Friday,Dinner (6-11pm),Chili's,Continental,Jubilee Hills,Banjara Hills,2,437,874,0,0,0,874,Swiggy Wallet,Returned,,
+SWG10030,2024-06-03,June,Q2,Monday,Lunch (11am-3pm),Swensen's Ice Cream,Desserts,Secunderabad,LB Nagar,5,88,440,30,132,50,358,Debit Card,Delivered,26,3.6
+SWG10031,2024-02-24,February,Q1,Saturday,Snacks (3-6pm),The Bowl Company,Healthy,Gachibowli,Gachibowli,3,368,1104,20,221,0,883,Swiggy Wallet,Delivered,33,4.4
+SWG10032,2024-05-08,May,Q2,Wednesday,Snacks (3-6pm),Paradise Biryani,Biryani,Secunderabad,Hitech City,4,363,1452,0,0,0,1452,Credit Card,Returned,,
+SWG10033,2024-08-14,August,Q3,Wednesday,Late Night (11pm-2am),The Bowl Company,Healthy,Gachibowli,KPHB,4,654,2616,0,0,0,2616,UPI,Delivered,29,3.2
+SWG10034,2024-10-25,October,Q4,Friday,Snacks (3-6pm),The Bowl Company,Healthy,Gachibowli,Gachibowli,4,210,840,0,0,30,870,Credit Card,Returned,,
+SWG10035,2024-05-07,May,Q2,Tuesday,Lunch (11am-3pm),Shah Ghouse,Biryani,Tolichowki,Jubilee Hills,5,496,2480,20,496,0,1984,Credit Card,Delivered,35,4.9
+SWG10036,2024-01-13,January,Q1,Saturday,Dinner (6-11pm),Domino's Pizza,Pizza,Banjara Hills,KPHB,3,501,1503,50,752,0,751,UPI,Delivered,26,3.5
+SWG10037,2024-04-23,April,Q2,Tuesday,Dinner (6-11pm),Pizza Hut,Pizza,Jubilee Hills,Dilsukhnagar,4,438,1752,0,0,0,1752,Debit Card,Delivered,32,3.4
+SWG10038,2024-02-05,February,Q1,Monday,Breakfast (7-11am),McDonald's,Fast Food,Ameerpet,Jubilee Hills,5,489,2445,30,734,50,1761,Debit Card,Delivered,21,3.7
+SWG10039,2024-10-24,October,Q4,Thursday,Dinner (6-11pm),McDonald's,Fast Food,Ameerpet,Madhapur,1,690,690,10,69,30,651,Swiggy Wallet,Cancelled,,
+SWG10040,2024-02-29,February,Q1,Thursday,Late Night (11pm-2am),Behrouz Biryani,Biryani,Hitech City,Begumpet,5,274,1370,0,0,0,1370,Swiggy Wallet,Returned,,
+SWG10041,2024-12-09,December,Q4,Monday,Snacks (3-6pm),Pizza Hut,Pizza,Jubilee Hills,Jubilee Hills,4,151,604,30,181,30,453,Swiggy Wallet,Delivered,27,4.2
+SWG10042,2024-12-07,December,Q4,Saturday,Dinner (6-11pm),Fassos,Fast Food,Madhapur,Jubilee Hills,4,793,3172,0,0,50,3222,Credit Card,Cancelled,,
+SWG10043,2024-10-18,October,Q4,Friday,Late Night (11pm-2am),KFC,Fast Food,Hitech City,Ameerpet,5,80,400,0,0,30,430,Debit Card,Delivered,57,3.4
+SWG10044,2024-08-14,August,Q3,Wednesday,Late Night (11pm-2am),Box8,North Indian,Banjara Hills,Charminar,2,603,1206,10,121,0,1085,Swiggy Wallet,Delivered,38,4.3
+SWG10045,2024-02-17,February,Q1,Saturday,Lunch (11am-3pm),La Pino'z,Pizza,Kukatpally,Charminar,3,310,930,50,465,0,465,Cash on Delivery,Cancelled,,
+SWG10046,2024-02-07,February,Q1,Wednesday,Lunch (11am-3pm),Box8,North Indian,Banjara Hills,Ameerpet,5,279,1395,30,418,40,1017,UPI,Delivered,35,4
+SWG10047,2024-08-05,August,Q3,Monday,Dinner (6-11pm),La Pino'z,Pizza,Kukatpally,Gachibowli,5,555,2775,0,0,50,2825,Credit Card,Delivered,27,3.5
+SWG10048,2024-12-07,December,Q4,Saturday,Dinner (6-11pm),Chili's,Continental,Jubilee Hills,Kondapur,5,404,2020,50,1010,40,1050,Swiggy Wallet,Delivered,52,4.2
+SWG10049,2024-03-22,March,Q1,Friday,Dinner (6-11pm),Wow Momo,Chinese,Ameerpet,Secunderabad,3,333,999,50,500,30,529,Credit Card,Delivered,53,4.5
+SWG10050,2024-08-13,August,Q3,Tuesday,Breakfast (7-11am),Bawarchi,Biryani,RTC X Roads,KPHB,3,320,960,0,0,30,990,Credit Card,Delivered,54,3.6
+SWG10051,2024-04-28,April,Q2,Sunday,Dinner (6-11pm),Behrouz Biryani,Biryani,Hitech City,KPHB,2,299,598,0,0,40,638,Cash on Delivery,Delivered,54,3.8
+SWG10052,2024-04-15,April,Q2,Monday,Snacks (3-6pm),Fassos,Fast Food,Madhapur,Ameerpet,5,792,3960,0,0,50,4010,Debit Card,Delivered,20,3.8
+SWG10053,2024-08-02,August,Q3,Friday,Dinner (6-11pm),The Bowl Company,Healthy,Gachibowli,KPHB,5,697,3485,0,0,40,3525,UPI,Delivered,47,3.4
+SWG10054,2024-06-21,June,Q2,Friday,Late Night (11pm-2am),Behrouz Biryani,Biryani,Hitech City,KPHB,2,558,1116,0,0,50,1166,Swiggy Wallet,Returned,,
+SWG10055,2024-01-14,January,Q1,Sunday,Dinner (6-11pm),Bawarchi,Biryani,RTC X Roads,Charminar,4,218,872,50,436,40,476,Debit Card,Delivered,36,3.4
+SWG10056,2024-08-20,August,Q3,Tuesday,Dinner (6-11pm),Burger King,Fast Food,Gachibowli,Jubilee Hills,4,364,1456,50,728,40,768,UPI,Returned,,
+SWG10057,2024-10-03,October,Q4,Thursday,Lunch (11am-3pm),Paradise Biryani,Biryani,Secunderabad,Jubilee Hills,2,745,1490,0,0,0,1490,UPI,Cancelled,,
+SWG10058,2024-03-19,March,Q1,Tuesday,Snacks (3-6pm),La Pino'z,Pizza,Kukatpally,Gachibowli,4,765,3060,0,0,50,3110,Debit Card,Delivered,49,4.9
+SWG10059,2024-11-06,November,Q4,Wednesday,Late Night (11pm-2am),Swensen's Ice Cream,Desserts,Secunderabad,KPHB,1,247,247,0,0,0,247,Cash on Delivery,Delivered,39,4.2
+SWG10060,2024-04-11,April,Q2,Thursday,Breakfast (7-11am),Bawarchi,Biryani,RTC X Roads,Tolichowki,2,184,368,30,110,30,288,Swiggy Wallet,Delivered,58,4.7
+SWG10061,2024-06-26,June,Q2,Wednesday,Dinner (6-11pm),The Bowl Company,Healthy,Gachibowli,Ameerpet,3,150,450,20,90,30,390,UPI,Delivered,46,3
+SWG10062,2024-07-04,July,Q3,Thursday,Late Night (11pm-2am),Box8,North Indian,Banjara Hills,KPHB,2,525,1050,0,0,50,1100,Swiggy Wallet,Delivered,37,4.9
+SWG10063,2024-08-26,August,Q3,Monday,Snacks (3-6pm),Fassos,Fast Food,Madhapur,Dilsukhnagar,5,354,1770,0,0,0,1770,Cash on Delivery,Delivered,25,4.7
+SWG10064,2024-08-25,August,Q3,Sunday,Dinner (6-11pm),Chai Point,Beverages,Kukatpally,Tolichowki,4,424,1696,0,0,40,1736,Credit Card,Delivered,31,4.7
+SWG10065,2024-05-12,May,Q2,Sunday,Breakfast (7-11am),Burger King,Fast Food,Gachibowli,Banjara Hills,5,798,3990,0,0,50,4040,Credit Card,Returned,,
+SWG10066,2024-07-27,July,Q3,Saturday,Breakfast (7-11am),Wow Momo,Chinese,Ameerpet,Kondapur,2,787,1574,10,157,40,1457,Debit Card,Delivered,21,3.9
+SWG10067,2024-07-26,July,Q3,Friday,Late Night (11pm-2am),La Pino'z,Pizza,Kukatpally,Banjara Hills,5,457,2285,10,228,50,2107,Debit Card,Delivered,47,4.1
+SWG10068,2024-12-25,December,Q4,Wednesday,Breakfast (7-11am),Box8,North Indian,Banjara Hills,Banjara Hills,3,337,1011,0,0,0,1011,Swiggy Wallet,Returned,,
+SWG10069,2024-04-04,April,Q2,Thursday,Late Night (11pm-2am),Pizza Hut,Pizza,Jubilee Hills,Kukatpally,4,363,1452,30,436,50,1066,Debit Card,Delivered,53,5
+SWG10070,2024-04-09,April,Q2,Tuesday,Snacks (3-6pm),KFC,Fast Food,Hitech City,Kukatpally,3,263,789,0,0,0,789,UPI,Delivered,28,4.4
+SWG10071,2024-10-10,October,Q4,Thursday,Late Night (11pm-2am),KFC,Fast Food,Hitech City,KPHB,2,733,1466,50,733,40,773,Debit Card,Delivered,20,3.2
+SWG10072,2024-09-02,September,Q3,Monday,Dinner (6-11pm),Box8,North Indian,Banjara Hills,Jubilee Hills,2,132,264,0,0,40,304,Cash on Delivery,Delivered,24,3.2
+SWG10073,2024-10-22,October,Q4,Tuesday,Late Night (11pm-2am),Paradise Biryani,Biryani,Secunderabad,Gachibowli,2,656,1312,0,0,0,1312,Cash on Delivery,Cancelled,,
+SWG10074,2024-11-01,November,Q4,Friday,Dinner (6-11pm),Swensen's Ice Cream,Desserts,Secunderabad,Kukatpally,5,469,2345,10,234,40,2151,Debit Card,Cancelled,,
+SWG10075,2024-11-13,November,Q4,Wednesday,Lunch (11am-3pm),Paradise Biryani,Biryani,Secunderabad,Tolichowki,1,292,292,30,88,0,204,Credit Card,Delivered,25,3.5
+SWG10076,2024-10-09,October,Q4,Wednesday,Lunch (11am-3pm),Bawarchi,Biryani,RTC X Roads,Gachibowli,1,498,498,10,50,50,498,Debit Card,Returned,,
+SWG10077,2024-05-24,May,Q2,Friday,Dinner (6-11pm),Box8,North Indian,Banjara Hills,Hitech City,2,350,700,50,350,50,400,UPI,Cancelled,,
+SWG10078,2024-04-25,April,Q2,Thursday,Late Night (11pm-2am),Pista House,Biryani,Charminar,Begumpet,3,225,675,0,0,0,675,Swiggy Wallet,Delivered,39,3.3
+SWG10079,2024-08-12,August,Q3,Monday,Dinner (6-11pm),Shah Ghouse,Biryani,Tolichowki,Secunderabad,3,796,2388,10,239,30,2179,UPI,Cancelled,,
+SWG10080,2024-01-21,January,Q1,Sunday,Late Night (11pm-2am),Fassos,Fast Food,Madhapur,KPHB,3,698,2094,0,0,0,2094,UPI,Returned,,
+SWG10081,2024-05-17,May,Q2,Friday,Late Night (11pm-2am),Chai Point,Beverages,Kukatpally,Madhapur,2,561,1122,20,224,40,938,Cash on Delivery,Returned,,
+SWG10082,2024-09-08,September,Q3,Sunday,Snacks (3-6pm),Bawarchi,Biryani,RTC X Roads,Secunderabad,3,498,1494,0,0,30,1524,Cash on Delivery,Returned,,
+SWG10083,2024-09-10,September,Q3,Tuesday,Snacks (3-6pm),KFC,Fast Food,Hitech City,Charminar,4,643,2572,0,0,40,2612,UPI,Delivered,36,3.2
+SWG10084,2024-09-20,September,Q3,Friday,Late Night (11pm-2am),Biryani Blues,Biryani,Madhapur,Charminar,5,553,2765,10,276,0,2489,Cash on Delivery,Returned,,
+SWG10085,2024-08-14,August,Q3,Wednesday,Breakfast (7-11am),Paradise Biryani,Biryani,Secunderabad,Kukatpally,3,642,1926,0,0,30,1956,UPI,Returned,,
+SWG10086,2024-11-07,November,Q4,Thursday,Lunch (11am-3pm),La Pino'z,Pizza,Kukatpally,KPHB,2,398,796,20,159,0,637,UPI,Delivered,25,4.1
+SWG10087,2024-03-01,March,Q1,Friday,Dinner (6-11pm),Pista House,Biryani,Charminar,Secunderabad,3,601,1803,30,541,30,1292,Credit Card,Delivered,50,3.8
+SWG10088,2024-10-09,October,Q4,Wednesday,Dinner (6-11pm),Pista House,Biryani,Charminar,Ameerpet,2,693,1386,20,277,0,1109,Debit Card,Cancelled,,
+SWG10089,2024-05-16,May,Q2,Thursday,Late Night (11pm-2am),Biryani Blues,Biryani,Madhapur,Banjara Hills,3,681,2043,20,409,40,1674,Cash on Delivery,Delivered,48,4.7
+SWG10090,2024-06-19,June,Q2,Wednesday,Late Night (11pm-2am),The Bowl Company,Healthy,Gachibowli,LB Nagar,5,466,2330,10,233,30,2127,Cash on Delivery,Delivered,35,4.7
+SWG10091,2024-07-29,July,Q3,Monday,Lunch (11am-3pm),Paradise Biryani,Biryani,Secunderabad,Jubilee Hills,4,470,1880,10,188,0,1692,Swiggy Wallet,Cancelled,,
+SWG10092,2024-06-18,June,Q2,Tuesday,Dinner (6-11pm),Shah Ghouse,Biryani,Tolichowki,Dilsukhnagar,4,182,728,20,146,40,622,Credit Card,Delivered,29,3
+SWG10093,2024-08-28,August,Q3,Wednesday,Dinner (6-11pm),McDonald's,Fast Food,Ameerpet,Jubilee Hills,5,789,3945,10,394,0,3551,Debit Card,Returned,,
+SWG10094,2024-09-06,September,Q3,Friday,Dinner (6-11pm),The Bowl Company,Healthy,Gachibowli,Madhapur,5,150,750,0,0,30,780,UPI,Returned,,
+SWG10095,2024-12-26,December,Q4,Thursday,Snacks (3-6pm),Shah Ghouse,Biryani,Tolichowki,Secunderabad,2,790,1580,0,0,0,1580,Debit Card,Delivered,23,3.1
+SWG10096,2024-08-08,August,Q3,Thursday,Late Night (11pm-2am),Pista House,Biryani,Charminar,Kukatpally,5,501,2505,20,501,0,2004,Cash on Delivery,Cancelled,,
+SWG10097,2024-12-15,December,Q4,Sunday,Snacks (3-6pm),La Pino'z,Pizza,Kukatpally,Secunderabad,5,226,1130,0,0,40,1170,UPI,Delivered,49,4.3
+SWG10098,2024-05-27,May,Q2,Monday,Snacks (3-6pm),The Bowl Company,Healthy,Gachibowli,Gachibowli,1,532,532,0,0,50,582,Cash on Delivery,Delivered,47,3.6
+SWG10099,2024-04-11,April,Q2,Thursday,Snacks (3-6pm),Behrouz Biryani,Biryani,Hitech City,Dilsukhnagar,4,189,756,0,0,40,796,Debit Card,Delivered,56,4.1
